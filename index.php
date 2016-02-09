@@ -3,6 +3,9 @@
 $_controller = 'pages';
 $_controller = 'pages';
 $_controller = 'pages';
+$_controller = 'pages';
+$_controller = 'pages';
+$_controller = 'pages';
 $_action = 'index';
 $_action = 'index';
 
